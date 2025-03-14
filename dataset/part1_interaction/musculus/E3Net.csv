@@ -1,0 +1,370 @@
+ENZYME,KIN_ORGANISM,ENZY_ACC_ID,E3_PN,GENE,E3_SUBUNIT,E3_DOM_SUBCLASS,SUBSTRATE,SUB_ORGANISM,SUB_ACC_ID,SUB_PN,SUB_GENE
+DCX(DET1-COP1),MOUSE,Q9D0A0#Q9R1A8,DCX(DET1-COP1),-,COMPLEX,RING,CRTC2,MOUSE,Q3U182,CREB-regulated transcription coactivator 2,Crtc2
+ECS(NEURL2),MOUSE,Q9D0S4,ECS(NEURL2),-,COMPLEX,RING,CTNB1,MOUSE,Q02248,Catenin beta-1,Ctnnb1
+MARH2,MOUSE,Q99M02,E3 ubiquitin-protein ligase MARCH2,2-Mar,SINGLE,RING,TFR1,MOUSE,Q62351,Transferrin receptor protein 1,Tfrc
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,APEX1,MOUSE,P28352,DNA-(apurinic or apyrimidinic site) lyase,Apex1
+MYLIP,MOUSE,Q8BM54,E3 ubiquitin-protein ligase MYLIP,Mylip,SINGLE,RING,LRP8,MOUSE,Q924X6,Low-density lipoprotein receptor-related protein 8,Lrp8
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,SCNNA,MOUSE,Q61180,Amiloride-sensitive sodium channel subunit alpha,Scnn1a
+NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4,SINGLE,HECT,KSYK,MOUSE,P48025,Tyrosine-protein kinase SYK,Syk
+NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4,SINGLE,HECT,NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4
+NHLC1,MOUSE,Q8BR37,E3 ubiquitin-protein ligase NHLRC1,Nhlrc1,SINGLE,RING,PPR3C,MOUSE,Q7TMB3,Protein phosphatase 1 regulatory subunit 3C,Ppp1r3c
+M3K1,MOUSE,P53349,Mitogen-activated protein kinase kinase kinase 1,Map3k1,SINGLE,RING,JUN,MOUSE,P05627,Transcription factor AP-1,Jun
+M3K1,MOUSE,P53349,Mitogen-activated protein kinase kinase kinase 1,Map3k1,SINGLE,RING,MK01,MOUSE,P63085,Mitogen-activated protein kinase 1,Mapk1
+MALT1,MOUSE,Q2TBA3,Mucosa-associated lymphoid tissue lymphoma translocation protein 1 homolog,Malt1,SINGLE,ETC,NEMO,MOUSE,O88522,NF-kappa-B essential modulator,Ikbkg
+MARHB,MOUSE,Q8CBH7,E3 ubiquitin-protein ligase MARCH11,11-Mar,SINGLE,RING,CD4,MOUSE,P06332,T-cell surface glycoprotein CD4,Cd4
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,ARC,MOUSE,Q9WV31,Activity-regulated cytoskeleton-associated protein,Arc
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,TELT,MOUSE,O70548,Telethonin,Tcap
+MIB2,MOUSE,Q8R516,E3 ubiquitin-protein ligase MIB2,Mib2,SINGLE,RING,DLL4,MOUSE,Q9JI71,Delta-like protein 4,Dll4
+MKRN1,MOUSE,Q9QXP6,E3 ubiquitin-protein ligase makorin-1,Mkrn1,SINGLE,RING,CDN1A,MOUSE,P39689,Cyclin-dependent kinase inhibitor 1,Cdkn1a
+MKRN1,MOUSE,Q9QXP6,E3 ubiquitin-protein ligase makorin-1,Mkrn1,SINGLE,RING,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,S38A2,MOUSE,Q8CFE6,Sodium-coupled neutral amino acid transporter 2,Slc38a2
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,SCN5A,MOUSE,Q9JJV9,Sodium channel protein type 5 subunit alpha,Scn5a
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,SMAD2,MOUSE,Q62432,Mothers against decapentaplegic homolog 2,Smad2
+NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4,SINGLE,HECT,PTEN,MOUSE,O08586,Phosphatidylinositol-3,
+NEU1B,MOUSE,Q0MW30,E3 ubiquitin-protein ligase NEURL1B,Neurl1b,SINGLE,RING,DLL4,MOUSE,Q9JI71,Delta-like protein 4,Dll4
+NHLC1,MOUSE,Q8BR37,E3 ubiquitin-protein ligase NHLRC1,Nhlrc1,SINGLE,RING,EPM2A,MOUSE,Q9WUA5,Laforin,Epm2a
+PAXI1,MOUSE,Q6NZQ4,PAX-interacting protein 1,Paxip1,SINGLE,ETC,PCNA,MOUSE,P17918,Proliferating cell nuclear antigen,Pcna
+WWP2,MOUSE,Q9DBH0,NEDD4-like E3 ubiquitin-protein ligase WWP2,Wwp2,SINGLE,HECT,PO5F1,MOUSE,P20263,POU domain,
+XIAP,MOUSE,Q60989,Baculoviral IAP repeat-containing protein 4,Xiap,SINGLE,RING,COMD1,MOUSE,Q8K4M5,COMM domain-containing protein 1,Commd1
+BCR(GAN),MOUSE,Q8CA72,BCR(GAN),-,COMPLEX,RING,MAP1B,MOUSE,P14873,Microtubule-associated protein 1B,Map1b
+BCR(KLHL17),MOUSE,Q6TDP3,BCR(KLHL17),-,COMPLEX,RING,GRIK2,MOUSE,P39087,Glutamate receptor,
+CBLB,MOUSE,Q3TTA7,E3 ubiquitin-protein ligase CBL-B,Cblb,SINGLE,RING,CBLB,MOUSE,Q3TTA7,E3 ubiquitin-protein ligase CBL-B,Cblb
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,HGS,MOUSE,Q99LI8,Hepatocyte growth factor-regulated tyrosine kinase substrate,Hgs
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,KIT,MOUSE,P05532,Mast/stem cell growth factor receptor,Kit
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,LYN,MOUSE,P25911,Tyrosine-protein kinase Lyn,Lyn
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,MET,MOUSE,P16056,Hepatocyte growth factor receptor,Met
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,SH3K1,MOUSE,Q8R550,SH3 domain-containing kinase-binding protein 1,Sh3kbp1
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,AHR,MOUSE,P30561,Aryl hydrocarbon receptor,Ahr
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,HSP7C,MOUSE,P63017,Heat shock cognate 71 kDa protein,Hspa8
+PDLI2,MOUSE,Q8R1G6,PDZ and LIM domain protein 2,Pdlim2,SINGLE,RING,STAT1,MOUSE,P42225,Signal transducer and activator of transcription 1,Stat1
+PDLI2,MOUSE,Q8R1G6,PDZ and LIM domain protein 2,Pdlim2,SINGLE,RING,TF65,MOUSE,Q04207,Transcription factor p65,Rela
+R144B,MOUSE,Q8BKD6,E3 ubiquitin-protein ligase RNF144B,Rnf144b,SINGLE,RING,LCMT2,MOUSE,Q8BYR1,Leucine carboxyl methyltransferase 2,Lcmt2
+RN19B,MOUSE,A2A7Q9,E3 ubiquitin-protein ligase RNF19B,Rnf19b,SINGLE,RING,UCKL1,MOUSE,Q91YL3,Uridine-cytidine kinase-like 1,Uckl1
+RNF12,MOUSE,Q9WTV7,E3 ubiquitin-protein ligase RLIM,Rlim,SINGLE,RING,HDAC2,MOUSE,P70288,Histone deacetylase 2,Hdac2
+RNF12,MOUSE,Q9WTV7,E3 ubiquitin-protein ligase RLIM,Rlim,SINGLE,RING,LIMK1,MOUSE,P53668,LIM domain kinase 1,Limk1
+RNF5,MOUSE,O35445,E3 ubiquitin-protein ligase RNF5,Rnf5,SINGLE,RING,PAXI,MOUSE,Q8VI36,Paxillin,Pxn
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,FBX5,MOUSE,Q7TSG3,F-box only protein 5,Fbxo5
+SCF(FBXO11),MOUSE,Q7TPD1,SCF(FBXO11),-,COMPLEX,RING,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+SCF(FBXO4),MOUSE,Q8CHQ0,SCF(FBXO4),-,COMPLEX,RING,CCND1,MOUSE,P25322,G1/S-specific cyclin-D1,Ccnd1
+SCF(FBXW7),MOUSE,Q8VBV4,SCF(FBXW7),-,COMPLEX,RING,MYB,MOUSE,P06876,Transcriptional activator Myb,Myb
+APC(CDC20),MOUSE,Q9JJ66,APC(CDC20),-,COMPLEX,RING,RUNX1,MOUSE,Q03347,Runt-related transcription factor 1,Runx1
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,EGFR,MOUSE,Q01279,Epidermal growth factor receptor,Egfr
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,FRS2,MOUSE,Q8C180,Fibroblast growth factor receptor substrate 2,Frs2
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,VAV,MOUSE,P27870,Proto-oncogene vav,Vav1
+CNOT4,MOUSE,Q8BT14,CCR4-NOT transcription complex subunit 4,Cnot4,SINGLE,RING,CNOT4,MOUSE,Q8BT14,CCR4-NOT transcription complex subunit 4,Cnot4
+ECS(SOCS1),MOUSE,O35716,ECS(SOCS1),-,COMPLEX,RING,IRS1,MOUSE,P35569,Insulin receptor substrate 1,Irs1
+ECS(SOCS2),MOUSE,O35717,ECS(SOCS2),-,COMPLEX,RING,SOCS3,MOUSE,O35718,Suppressor of cytokine signaling 3,Socs3
+ECS(SOCS3),MOUSE,O35718,ECS(SOCS3),-,COMPLEX,RING,IRS1,MOUSE,P35569,Insulin receptor substrate 1,Irs1
+ECS(SOCS3),MOUSE,O35718,ECS(SOCS3),-,COMPLEX,RING,IRS2,MOUSE,P81122,Insulin receptor substrate 2,Irs2
+SIA1A,MOUSE,P61092,E3 ubiquitin-protein ligase SIAH1A,Siah1a,SINGLE,RING,EGLN1,MOUSE,Q91YE3,Egl nine homolog 1,Egln1
+SIA1A,MOUSE,P61092,E3 ubiquitin-protein ligase SIAH1A,Siah1a,SINGLE,RING,PML,MOUSE,Q60953,Probable transcription factor PML,Pml
+SIAH1-CACYBP-SKP1-APC-TBL1X,MOUSE,Q9QXE7,SIAH1-CACYBP-SKP1-APC-TBL1X,-,COMPLEX,RING,CTNB1,MOUSE,Q02248,Catenin beta-1,Ctnnb1
+SYVN1,MOUSE,Q9DBY1,E3 ubiquitin-protein ligase synoviolin,Syvn1,SINGLE,RING,ERN1,MOUSE,Q9EQY0,Serine/threonine-protein kinase/endoribonuclease IRE1,Ern1
+TOPRS,MOUSE,Q80Z37,E3 ubiquitin-protein ligase Topors,Topors,SINGLE,RING,NKX31,MOUSE,P97436,Homeobox protein Nkx-3.1,Nkx3-1
+TRAF1-TRAF2,MOUSE,P39429,TRAF1-TRAF2,-,COMPLEX,RING,M3K14,MOUSE,Q9WUL6,Mitogen-activated protein kinase kinase kinase 14,Map3k14
+TRAF6,MOUSE,P70196,TNF receptor-associated factor 6,Traf6,SINGLE,RING,NEMO,MOUSE,O88522,NF-kappa-B essential modulator,Ikbkg
+TRI31,MOUSE,Q8R0K2,E3 ubiquitin-protein ligase TRIM31,Trim31,SINGLE,RING,TRI31,MOUSE,Q8R0K2,E3 ubiquitin-protein ligase TRIM31,Trim31
+TRI63,MOUSE,Q38HM4,E3 ubiquitin-protein ligase TRIM63,Trim63,SINGLE,RING,TNNI3,MOUSE,P48787,Troponin I,
+WWP1,MOUSE,Q8BZZ3,NEDD4-like E3 ubiquitin-protein ligase WWP1,Wwp1,SINGLE,HECT,RUNX2,MOUSE,Q08775,Runt-related transcription factor 2,Runx2
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,CDC20,MOUSE,Q9JJ66,Cell division cycle protein 20 homolog,Cdc20
+PRKN2,MOUSE,Q9WVS6,E3 ubiquitin-protein ligase parkin,Park2,SINGLE,RING,AIMP2,MOUSE,Q8R010,Aminoacyl tRNA synthase complex-interacting multifunctional protein 2,Aimp2
+RC3H1,MOUSE,Q4VGL6,Roquin,Rc3h1,SINGLE,RING,ICOS,MOUSE,Q9WVS0,Inducible T-cell costimulator,Icos
+RN125,MOUSE,Q9D9R0,E3 ubiquitin-protein ligase RNF125,Rnf125,SINGLE,RING,DDX58,MOUSE,Q6Q899,Probable ATP-dependent RNA helicase DDX58,Ddx58
+RN135,MOUSE,Q9CWS1,E3 ubiquitin-protein ligase RNF135,Rnf135,SINGLE,RING,DDX58,MOUSE,Q6Q899,Probable ATP-dependent RNA helicase DDX58,Ddx58
+RN19A,MOUSE,P50636,E3 ubiquitin-protein ligase RNF19A,Rnf19a,SINGLE,RING,SODC,MOUSE,P08228,Superoxide dismutase [Cu-Zn],Sod1
+RN220,MOUSE,Q6PDX6,E3 ubiquitin-protein ligase Rnf220,Rnf220,SINGLE,RING,RN220,MOUSE,Q6PDX6,E3 ubiquitin-protein ligase Rnf220,Rnf220
+RNF12,MOUSE,Q9WTV7,E3 ubiquitin-protein ligase RLIM,Rlim,SINGLE,RING,TERF1,MOUSE,P70371,Telomeric repeat-binding factor 1,Terf1
+RNF5,MOUSE,O35445,E3 ubiquitin-protein ligase RNF5,Rnf5,SINGLE,RING,JKAMP,MOUSE,Q8BI36,JNK1/MAPK8-associated membrane protein,Jkamp
+RNF5,MOUSE,O35445,E3 ubiquitin-protein ligase RNF5,Rnf5,SINGLE,RING,TM173,MOUSE,Q3TBT3,Transmembrane protein 173,Tmem173
+RNF6,MOUSE,Q9DBU5,E3 ubiquitin-protein ligase RNF6,Rnf6,SINGLE,RING,LIMK1,MOUSE,P53668,LIM domain kinase 1,Limk1
+RO52,MOUSE,Q62191,E3 ubiquitin-protein ligase TRIM21,Trim21,SINGLE,RING,UBP4,MOUSE,P35123,Ubiquitin carboxyl-terminal hydrolase 4,Usp4
+SCF(FBXL12),MOUSE,Q9EPX5,SCF(FBXL12),-,COMPLEX,RING,CDN1C,MOUSE,P49919,Cyclin-dependent kinase inhibitor 1C,Cdkn1c
+SCF(FBXO32),MOUSE,Q9CPU7,SCF(FBXO32),-,COMPLEX,RING,EIF3F,MOUSE,Q9DCH4,Eukaryotic translation initiation factor 3 subunit F,Eif3f
+SCF(FBXO32),MOUSE,Q9CPU7,SCF(FBXO32),-,COMPLEX,RING,FOXO1,MOUSE,Q9R1E0,Forkhead box protein O1,Foxo1
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,BID,MOUSE,P70444,BH3-interacting domain death agonist,Bid
+MARH1,MOUSE,Q6NZQ8,E3 ubiquitin-protein ligase MARCH1,1-Mar,SINGLE,RING,CD86,MOUSE,P42082,T-lymphocyte activation antigen CD86,Cd86
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,E2F1,MOUSE,Q61501,Transcription factor E2F1,E2f1
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,JMY,MOUSE,Q9QXM1,Junction-mediating and -regulatory protein,Jmy
+MIB1,MOUSE,Q80SY4,E3 ubiquitin-protein ligase MIB1,Mib1,SINGLE,RING,DLL3,MOUSE,O88516,Delta-like protein 3,Dll3
+MIB1,MOUSE,Q80SY4,E3 ubiquitin-protein ligase MIB1,Mib1,SINGLE,RING,DLL4,MOUSE,Q9JI71,Delta-like protein 4,Dll4
+MYLIP,MOUSE,Q8BM54,E3 ubiquitin-protein ligase MYLIP,Mylip,SINGLE,RING,MYLIP,MOUSE,Q8BM54,E3 ubiquitin-protein ligase MYLIP,Mylip
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,SCN8A,MOUSE,Q9WTU3,Sodium channel protein type 8 subunit alpha,Scn8a
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,SCNAA,MOUSE,Q6QIY3,Sodium channel protein type 10 subunit alpha,Scn10a
+NEU1B,MOUSE,Q0MW30,E3 ubiquitin-protein ligase NEURL1B,Neurl1b,SINGLE,RING,DLL3,MOUSE,O88516,Delta-like protein 3,Dll3
+PELI1,MOUSE,Q8C669,Protein pellino homolog 1,Peli1,SINGLE,RING,IRAK1,MOUSE,Q62406,Interleukin-1 receptor-associated kinase 1,Irak1
+RAG1,MOUSE,P15919,V(D)J recombination-activating protein 1,Rag1,SINGLE,RING,RAG1,MOUSE,P15919,V(D)J recombination-activating protein 1,Rag1
+RN19A,MOUSE,P50636,E3 ubiquitin-protein ligase RNF19A,Rnf19a,SINGLE,RING,CASR,MOUSE,Q9QY96,Extracellular calcium-sensing receptor,Casr
+BCR(BACURD1),MOUSE,Q8BGV7,BCR(BACURD1),-,COMPLEX,RING,RHOA,MOUSE,Q9QUI0,Transforming protein RhoA,Rhoa
+BCR(KLHL21),MOUSE,Q3U410,BCR(KLHL21),-,COMPLEX,RING,AURKB,MOUSE,O70126,Serine/threonine-protein kinase 12,Aurkb
+BCR(SPOP),MOUSE,Q6ZWS8,BCR(SPOP),-,COMPLEX,RING,BMI1,MOUSE,P25916,Polycomb complex protein BMI-1,Bmi1
+CBLB,MOUSE,Q3TTA7,E3 ubiquitin-protein ligase CBL-B,Cblb,SINGLE,RING,KSYK,MOUSE,P48025,Tyrosine-protein kinase SYK,Syk
+CBLB,MOUSE,Q3TTA7,E3 ubiquitin-protein ligase CBL-B,Cblb,SINGLE,RING,SH3K1,MOUSE,Q8R550,SH3 domain-containing kinase-binding protein 1,Sh3kbp1
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,KSYK,MOUSE,P48025,Tyrosine-protein kinase SYK,Syk
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,VGFR2,MOUSE,P35918,Vascular endothelial growth factor receptor 2,Kdr
+ECS(SOCS1),MOUSE,O35716,ECS(SOCS1),-,COMPLEX,RING,TF65,MOUSE,Q04207,Transcription factor p65,Rela
+HECD3,MOUSE,Q3U487,E3 ubiquitin-protein ligase HECTD3,Hectd3,SINGLE,HECT,STX8,MOUSE,O88983,Syntaxin-8,Stx8
+IRAK4,MOUSE,Q8R4K2,Interleukin-1 receptor-associated kinase 4,Irak4,SINGLE,ETC,PELI1,MOUSE,Q8C669,Protein pellino homolog 1,Peli1
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,BCL10,MOUSE,Q9Z0H7,B-cell lymphoma/leukemia 10,Bcl10
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,NOTC1,MOUSE,Q01705,Neurogenic locus notch homolog protein 1,Notch1
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,P73,MOUSE,Q9JJP2,Tumor protein p73,Tp73
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,CTNB1,MOUSE,Q02248,Catenin beta-1,Ctnnb1
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,UBP18,MOUSE,Q9WTV6,Ubl carboxyl-terminal hydrolase 18,Usp18
+SIA1A,MOUSE,P61092,E3 ubiquitin-protein ligase SIAH1A,Siah1a,SINGLE,RING,MYB,MOUSE,P06876,Transcriptional activator Myb,Myb
+SIAH2,MOUSE,Q06986,E3 ubiquitin-protein ligase SIAH2,Siah2,SINGLE,RING,EGLN1,MOUSE,Q91YE3,Egl nine homolog 1,Egln1
+SIAH2,MOUSE,Q06986,E3 ubiquitin-protein ligase SIAH2,Siah2,SINGLE,RING,PML,MOUSE,Q60953,Probable transcription factor PML,Pml
+SMUF1,MOUSE,Q9CUN6,E3 ubiquitin-protein ligase SMURF1,Smurf1,SINGLE,HECT,RHOA,MOUSE,Q9QUI0,Transforming protein RhoA,Rhoa
+SMUF1,MOUSE,Q9CUN6,E3 ubiquitin-protein ligase SMURF1,Smurf1,SINGLE,HECT,RUNX2,MOUSE,Q08775,Runt-related transcription factor 2,Runx2
+SMUF1,MOUSE,Q9CUN6,E3 ubiquitin-protein ligase SMURF1,Smurf1,SINGLE,HECT,SMAD1,MOUSE,P70340,Mothers against decapentaplegic homolog 1,Smad1
+TRAF6,MOUSE,P70196,TNF receptor-associated factor 6,Traf6,SINGLE,RING,RIPK2,MOUSE,P58801,Receptor-interacting serine/threonine-protein kinase 2,Ripk2
+TRI63,MOUSE,Q38HM4,E3 ubiquitin-protein ligase TRIM63,Trim63,SINGLE,RING,MYL1,MOUSE,P05977,Myosin light chain 1/3,
+TRIM2,MOUSE,Q9ESN6,Tripartite motif-containing protein 2,Trim2,SINGLE,RING,NFL,MOUSE,P08551,Neurofilament light polypeptide,Nefl
+RN216,MOUSE,P58283,E3 ubiquitin-protein ligase RNF216,Rnf216,SINGLE,RING,RN216,MOUSE,P58283,E3 ubiquitin-protein ligase RNF216,Rnf216
+RNF12,MOUSE,Q9WTV7,E3 ubiquitin-protein ligase RLIM,Rlim,SINGLE,RING,LDB2,MOUSE,O55203,LIM domain-binding protein 2,Ldb2
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,MPIP1,MOUSE,P48964,M-phase inducer phosphatase 1,Cdc25a
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,SMAD3,MOUSE,Q8BUN5,Mothers against decapentaplegic homolog 3,Smad3
+SCF(FBXO32),MOUSE,Q9CPU7,SCF(FBXO32),-,COMPLEX,RING,MYOD1,MOUSE,P10085,Myoblast determination protein 1,Myod1
+SCF(FBXW7),MOUSE,Q8VBV4,SCF(FBXW7),-,COMPLEX,RING,MYC,MOUSE,P01108,Myc proto-oncogene protein,Myc
+SCF(FBXW7),MOUSE,Q8VBV4,SCF(FBXW7),-,COMPLEX,RING,NOTC1,MOUSE,Q01705,Neurogenic locus notch homolog protein 1,Notch1
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,CDN1B,MOUSE,P46414,Cyclin-dependent kinase inhibitor 1B,Cdkn1b
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,MYC,MOUSE,P01108,Myc proto-oncogene protein,Myc
+SIA1A,MOUSE,P61092,E3 ubiquitin-protein ligase SIAH1A,Siah1a,SINGLE,RING,PLCE1,MOUSE,Q8K4S1,1-phosphatidylinositol-4,
+SIAH2,MOUSE,Q06986,E3 ubiquitin-protein ligase SIAH2,Siah2,SINGLE,RING,AKAP1,MOUSE,O08715,A-kinase anchor protein 1,
+SIAH2,MOUSE,Q06986,E3 ubiquitin-protein ligase SIAH2,Siah2,SINGLE,RING,TRAF2,MOUSE,P39429,TNF receptor-associated factor 2,Traf2
+MARH5,MOUSE,Q3KNM2,E3 ubiquitin-protein ligase MARCH5,5-Mar,SINGLE,RING,MFN1,MOUSE,Q811U4,Mitofusin-1,Mfn1
+MARH8,MOUSE,Q9DBD2,E3 ubiquitin-protein ligase MARCH8,8-Mar,SINGLE,RING,HB2A,MOUSE,P14483,H-2 class II histocompatibility antigen,
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,ANDR,MOUSE,P19091,Androgen receptor,Ar
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,HIPK2,MOUSE,Q9QZR5,Homeodomain-interacting protein kinase 2,Hipk2
+MIB2,MOUSE,Q8R516,E3 ubiquitin-protein ligase MIB2,Mib2,SINGLE,RING,DLL3,MOUSE,O88516,Delta-like protein 3,Dll3
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,NFIP2,MOUSE,Q91ZP6,NEDD4 family-interacting protein 2,Ndfip2
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,SCN9A,MOUSE,Q62205,Sodium channel protein type 9 subunit alpha,Scn9a
+NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4,SINGLE,HECT,LYN,MOUSE,P25911,Tyrosine-protein kinase Lyn,Lyn
+TTC3,MOUSE,O88196,E3 ubiquitin-protein ligase TTC3,Ttc3,SINGLE,RING,AKT2,MOUSE,Q60823,RAC-beta serine/threonine-protein kinase,Akt2
+WWP2,MOUSE,Q9DBH0,NEDD4-like E3 ubiquitin-protein ligase WWP2,Wwp2,SINGLE,HECT,RPB1,MOUSE,P08775,DNA-directed RNA polymerase II subunit RPB1,Polr2a
+APC(CDC20),MOUSE,Q9JJ66,APC(CDC20),-,COMPLEX,RING,CCNB1,MOUSE,P24860,G2/mitotic-specific cyclin-B1,Ccnb1
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,B2L11,MOUSE,O54918,Bcl-2-like protein 11,Bcl2l11
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,FGFR1,MOUSE,P16092,Basic fibroblast growth factor receptor 1,Fgfr1
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,FGFR4,MOUSE,Q03142,Fibroblast growth factor receptor 4,Fgfr4
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,SMAD3,MOUSE,Q8BUN5,Mothers against decapentaplegic homolog 3,Smad3
+CUL4A-RBX1-DDB1-VPRBP,MOUSE,Q80TR8,CUL4A-RBX1-DDB1-VPRBP,-,COMPLEX,RING,MERL,MOUSE,P46662,Merlin,Nf2
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,CSF1R,MOUSE,P09581,Macrophage colony-stimulating factor 1 receptor,Csf1r
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,IL6RB,MOUSE,Q00560,Interleukin-6 receptor subunit beta,Il6st
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,SRBS2,MOUSE,Q3UTJ2,Sorbin and SH3 domain-containing protein 2,Sorbs2
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,STA5B,MOUSE,P42232,Signal transducer and activator of transcription 5B,Stat5b
+CHFR,MOUSE,Q810L3,E3 ubiquitin-protein ligase CHFR,Chfr,SINGLE,RING,STK6,MOUSE,P97477,Serine/threonine-protein kinase 6,Aurka
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,DLK1,MOUSE,Q09163,Protein delta homolog 1,Dlk1
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,HD,MOUSE,P42859,Huntingtin,Htt
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,NOS1,MOUSE,Q9Z0J4,Nitric oxide synthase,
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,SGK1,MOUSE,Q9WVC6,Serine/threonine-protein kinase Sgk1,Sgk1
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,SODC,MOUSE,P08228,Superoxide dismutase [Cu-Zn],Sod1
+ECS(SOCS1),MOUSE,O35716,ECS(SOCS1),-,COMPLEX,RING,IRS2,MOUSE,P81122,Insulin receptor substrate 2,Irs2
+FANCL,MOUSE,Q9CR14,E3 ubiquitin-protein ligase FANCL,Fancl,SINGLE,RING,FACD2,MOUSE,Q80V62,Fanconi anemia group D2 protein homolog,Fancd2
+HUWE1,MOUSE,Q7TMY8,E3 ubiquitin-protein ligase HUWE1,Huwe1,SINGLE,HECT,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,ERBB4,MOUSE,Q61527,Receptor tyrosine-protein kinase erbB-4,Erbb4
+LRSM1,MOUSE,Q80ZI6,E3 ubiquitin-protein ligase LRSAM1,Lrsam1,SINGLE,RING,TS101,MOUSE,Q61187,Tumor susceptibility gene 101 protein,Tsg101
+MARH1,MOUSE,Q6NZQ8,E3 ubiquitin-protein ligase MARCH1,1-Mar,SINGLE,RING,TFR1,MOUSE,Q62351,Transferrin receptor protein 1,Tfrc
+PELI1,MOUSE,Q8C669,Protein pellino homolog 1,Peli1,SINGLE,RING,RBP1,MOUSE,Q62172,RalA-binding protein 1,Ralbp1
+PZRN3,MOUSE,Q69ZS0,E3 ubiquitin-protein ligase PDZRN3,Pdzrn3,SINGLE,RING,MUSK,MOUSE,Q61006,Muscle,
+RING2,MOUSE,Q9CQJ4,E3 ubiquitin-protein ligase RING2,Rnf2,SINGLE,RING,RING2,MOUSE,Q9CQJ4,E3 ubiquitin-protein ligase RING2,Rnf2
+RO52,MOUSE,Q62191,E3 ubiquitin-protein ligase TRIM21,Trim21,SINGLE,RING,IKKB,MOUSE,O88351,Inhibitor of nuclear factor kappa-B kinase subunit beta,Ikbkb
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,IKBE,MOUSE,O54910,NF-kappa-B inhibitor epsilon,Nfkbie
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,PCAT1,MOUSE,Q3TFD2,Lysophosphatidylcholine acyltransferase 1,Lpcat1
+SCF(FBXO32),MOUSE,Q9CPU7,SCF(FBXO32),-,COMPLEX,RING,MYOG,MOUSE,P12979,Myogenin,Myog
+SCF(FBXO33),MOUSE,Q8VE08,SCF(FBXO33),-,COMPLEX,RING,YBOX1,MOUSE,P62960,Nuclease-sensitive element-binding protein 1,Ybx1
+SCF(FBXW11),MOUSE,Q5SRY7,SCF(FBXW11),-,COMPLEX,RING,IKBA,MOUSE,Q9Z1E3,NF-kappa-B inhibitor alpha,Nfkbia
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,KLF10,MOUSE,O89091,Krueppel-like factor 10,Klf10
+MARH4,MOUSE,Q80TE3,E3 ubiquitin-protein ligase MARCH4,4-Mar,SINGLE,RING,CD4,MOUSE,P06332,T-cell surface glycoprotein CD4,Cd4
+MARH5,MOUSE,Q3KNM2,E3 ubiquitin-protein ligase MARCH5,5-Mar,SINGLE,RING,DNM1L,MOUSE,Q8K1M6,Dynamin-1-like protein,Dnm1l
+MARH7,MOUSE,Q9WV66,E3 ubiquitin-protein ligase MARCH7,7-Mar,SINGLE,RING,MARH7,MOUSE,Q9WV66,E3 ubiquitin-protein ligase MARCH7,7-Mar
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,ARRB1,MOUSE,Q8BWG8,Beta-arrestin-1,Arrb1
+MGRN1,MOUSE,Q9D074,E3 ubiquitin-protein ligase MGRN1,Mgrn1,SINGLE,RING,TS101,MOUSE,Q61187,Tumor susceptibility gene 101 protein,Tsg101
+MIB1,MOUSE,Q80SY4,E3 ubiquitin-protein ligase MIB1,Mib1,SINGLE,RING,DAPK1,MOUSE,Q80YE7,Death-associated protein kinase 1,Dapk1
+MIB2,MOUSE,Q8R516,E3 ubiquitin-protein ligase MIB2,Mib2,SINGLE,RING,DLL1,MOUSE,Q61483,Delta-like protein 1,Dll1
+NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4,SINGLE,HECT,GGA3,MOUSE,Q8BMI3,ADP-ribosylation factor-binding protein GGA3,Gga3
+NOSIP,MOUSE,Q9D6T0,Nitric oxide synthase-interacting protein,Nosip,SINGLE,UBOX,EPOR,MOUSE,P14753,Erythropoietin receptor,Epor
+PRKN2,MOUSE,Q9WVS6,E3 ubiquitin-protein ligase parkin,Park2,SINGLE,RING,GPR37,MOUSE,Q9QY42,Probable G-protein coupled receptor 37,Gpr37
+SYVN1,MOUSE,Q9DBY1,E3 ubiquitin-protein ligase synoviolin,Syvn1,SINGLE,RING,NICA,MOUSE,P57716,Nicastrin,Ncstn
+TRAF2,MOUSE,P39429,TNF receptor-associated factor 2,Traf2,SINGLE,RING,TRAF3,MOUSE,Q60803,TNF receptor-associated factor 3,Traf3
+TRI25,MOUSE,Q61510,E3 ubiquitin/ISG15 ligase TRIM25,Trim25,SINGLE,RING,DDX58,MOUSE,Q6Q899,Probable ATP-dependent RNA helicase DDX58,Ddx58
+UBR1,MOUSE,O70481,E3 ubiquitin-protein ligase UBR1,Ubr1,SINGLE,RING,OPSD,MOUSE,P15409,Rhodopsin,Rho
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,MYF5,MOUSE,P24699,Myogenic factor 5,Myf5
+CBLB,MOUSE,Q3TTA7,E3 ubiquitin-protein ligase CBL-B,Cblb,SINGLE,RING,PLCG1,MOUSE,Q62077,1-phosphatidylinositol-4,
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,FGD1,MOUSE,P52734,FYVE,
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,FOXO1,MOUSE,Q9R1E0,Forkhead box protein O1,Foxo1
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,IKBA,MOUSE,Q9Z1E3,NF-kappa-B inhibitor alpha,Nfkbia
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,IKBE,MOUSE,O54910,NF-kappa-B inhibitor epsilon,Nfkbie
+SMUF1,MOUSE,Q9CUN6,E3 ubiquitin-protein ligase SMURF1,Smurf1,SINGLE,HECT,M3K2,MOUSE,Q61083,Mitogen-activated protein kinase kinase kinase 2,Map3k2
+SMUF1,MOUSE,Q9CUN6,E3 ubiquitin-protein ligase SMURF1,Smurf1,SINGLE,HECT,SMAD5,MOUSE,P97454,Mothers against decapentaplegic homolog 5,Smad5
+SMUF2,MOUSE,A2A5Z6,E3 ubiquitin-protein ligase SMURF2,Smurf2,SINGLE,HECT,RAP1B,MOUSE,Q99JI6,Ras-related protein Rap-1b,Rap1b
+TRI32,MOUSE,Q8CH72,E3 ubiquitin-protein ligase TRIM32,Trim32,SINGLE,RING,PIAS4,MOUSE,Q9JM05,E3 SUMO-protein ligase PIAS4,Pias4
+TRI33,MOUSE,Q99PP7,E3 ubiquitin-protein ligase TRIM33,Trim33,SINGLE,RING,SMAD4,MOUSE,P97471,Mothers against decapentaplegic homolog 4,Smad4
+TRI63,MOUSE,Q38HM4,E3 ubiquitin-protein ligase TRIM63,Trim63,SINGLE,RING,KCRM,MOUSE,P07310,Creatine kinase M-type,Ckm
+UBE3A,MOUSE,O08759,Ubiquitin-protein ligase E3A,Ube3a,SINGLE,HECT,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+APC(CDC20),MOUSE,Q9JJ66,APC(CDC20),-,COMPLEX,RING,PTTG1,MOUSE,Q9CQJ7,Securin,Pttg1
+PRKN2,MOUSE,Q9WVS6,E3 ubiquitin-protein ligase parkin,Park2,SINGLE,RING,PRKN2,MOUSE,Q9WVS6,E3 ubiquitin-protein ligase parkin,Park2
+RAG1,MOUSE,P15919,V(D)J recombination-activating protein 1,Rag1,SINGLE,RING,IMA1,MOUSE,Q60960,Importin subunit alpha-1,Kpna1
+RFFL,MOUSE,Q6ZQM0,E3 ubiquitin-protein ligase rififylin,Rffl,SINGLE,RING,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+RN182,MOUSE,Q8C432,E3 ubiquitin-protein ligase RNF182,Rnf182,SINGLE,RING,VATL,MOUSE,P63082,V-type proton ATPase 16 kDa proteolipid subunit,Atp6v0c
+RN220,MOUSE,Q6PDX6,E3 ubiquitin-protein ligase Rnf220,Rnf220,SINGLE,RING,SIN3B,MOUSE,Q62141,Paired amphipathic helix protein Sin3b,Sin3b
+RNF41,MOUSE,Q8BH75,E3 ubiquitin-protein ligase NRDP1,Rnf41,SINGLE,RING,RNF41,MOUSE,Q8BH75,E3 ubiquitin-protein ligase NRDP1,Rnf41
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,CD4,MOUSE,P06332,T-cell surface glycoprotein CD4,Cd4
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,CTNB1,MOUSE,Q02248,Catenin beta-1,Ctnnb1
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,SMAD4,MOUSE,P97471,Mothers against decapentaplegic homolog 4,Smad4
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,SNAI1,MOUSE,Q02085,Zinc finger protein SNAI1,Snai1
+SCF(FBXO31),MOUSE,Q3TQF0,SCF(FBXO31),-,COMPLEX,RING,CCND1,MOUSE,P25322,G1/S-specific cyclin-D1,Ccnd1
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,CDN1A,MOUSE,P39689,Cyclin-dependent kinase inhibitor 1,Cdkn1a
+MARH1,MOUSE,Q6NZQ8,E3 ubiquitin-protein ligase MARCH1,1-Mar,SINGLE,RING,TNR6,MOUSE,P25446,Tumor necrosis factor receptor superfamily member 6,Fas
+MARH2,MOUSE,Q99M02,E3 ubiquitin-protein ligase MARCH2,2-Mar,SINGLE,RING,CD86,MOUSE,P42082,T-lymphocyte activation antigen CD86,Cd86
+MARH9,MOUSE,Q3TZ87,E3 ubiquitin-protein ligase MARCH9,9-Mar,SINGLE,RING,CD4,MOUSE,P06332,T-cell surface glycoprotein CD4,Cd4
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,SCNNG,MOUSE,Q9WU39,Amiloride-sensitive sodium channel subunit gamma,Scnn1g
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,SGK1,MOUSE,Q9WVC6,Serine/threonine-protein kinase Sgk1,Sgk1
+NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4,SINGLE,HECT,BCL10,MOUSE,Q9Z0H7,B-cell lymphoma/leukemia 10,Bcl10
+NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4,SINGLE,HECT,NFIP2,MOUSE,Q91ZP6,NEDD4 family-interacting protein 2,Ndfip2
+PRKN2,MOUSE,Q9WVS6,E3 ubiquitin-protein ligase parkin,Park2,SINGLE,RING,RBP2,MOUSE,Q9ERU9,E3 SUMO-protein ligase RanBP2,Ranbp2
+RING2,MOUSE,Q9CQJ4,E3 ubiquitin-protein ligase RING2,Rnf2,SINGLE,RING,RYBP,MOUSE,Q8CCI5,RING1 and YY1-binding protein,Rybp
+RN180,MOUSE,Q3U827,E3 ubiquitin-protein ligase RNF180,Rnf180,SINGLE,RING,ZIC2,MOUSE,Q62520,Zinc finger protein ZIC 2,Zic2
+RNF12,MOUSE,Q9WTV7,E3 ubiquitin-protein ligase RLIM,Rlim,SINGLE,RING,LDB1,MOUSE,P70662,LIM domain-binding protein 1,Ldb1
+RNF6,MOUSE,Q9DBU5,E3 ubiquitin-protein ligase RNF6,Rnf6,SINGLE,RING,ANDR,MOUSE,P19091,Androgen receptor,Ar
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,KITH,MOUSE,P04184,Thymidine kinase,
+BCR(SPOP),MOUSE,Q6ZWS8,BCR(SPOP),-,COMPLEX,RING,DAXX,MOUSE,O35613,Death domain-associated protein 6,Daxx
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,IRF8,MOUSE,P23611,Interferon regulatory factor 8,Irf8
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,PGFRA,MOUSE,P26618,Alpha-type platelet-derived growth factor receptor,Pdgfra
+CHFR,MOUSE,Q810L3,E3 ubiquitin-protein ligase CHFR,Chfr,SINGLE,RING,HDAC1,MOUSE,O09106,Histone deacetylase 1,Hdac1
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,M3K12,MOUSE,Q60700,Mitogen-activated protein kinase kinase kinase 12,Map3k12
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,RUNX2,MOUSE,Q08775,Runt-related transcription factor 2,Runx2
+ECS(VHL),MOUSE,P40338,ECS(VHL),-,COMPLEX,RING,EPAS1,MOUSE,P97481,Endothelial PAS domain-containing protein 1,Epas1
+ECS(VHL),MOUSE,P40338,ECS(VHL),-,COMPLEX,RING,HIF1A,MOUSE,Q61221,Hypoxia-inducible factor 1-alpha,Hif1a
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,CFLAR,MOUSE,O35732,CASP8 and FADD-like apoptosis regulator,Cflar
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,CXCR4,MOUSE,P70658,C-X-C chemokine receptor type 4,Cxcr4
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,JUNB,MOUSE,P09450,Transcription factor jun-B,Junb
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,JUN,MOUSE,P05627,Transcription factor AP-1,Jun
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,P63,MOUSE,O88898,Tumor protein 63,Tp63
+M3K1,MOUSE,P53349,Mitogen-activated protein kinase kinase kinase 1,Map3k1,SINGLE,RING,DTX1,MOUSE,Q61010,Protein deltex-1,Dtx1
+SIAH2,MOUSE,Q06986,E3 ubiquitin-protein ligase SIAH2,Siah2,SINGLE,RING,NCOR1,MOUSE,Q60974,Nuclear receptor corepressor 1,Ncor1
+SMUF2,MOUSE,A2A5Z6,E3 ubiquitin-protein ligase SMURF2,Smurf2,SINGLE,HECT,SMAD7,MOUSE,O35253,Mothers against decapentaplegic homolog 7,Smad7
+TRAF3,MOUSE,Q60803,TNF receptor-associated factor 3,Traf3,SINGLE,RING,M3K14,MOUSE,Q9WUL6,Mitogen-activated protein kinase kinase kinase 14,Map3k14
+TRI11,MOUSE,Q99PQ2,E3 ubiquitin-protein ligase TRIM11,Trim11,SINGLE,RING,MED15,MOUSE,Q924H2,Mediator of RNA polymerase II transcription subunit 15,Med15
+TRI11,MOUSE,Q99PQ2,E3 ubiquitin-protein ligase TRIM11,Trim11,SINGLE,RING,PAX6,MOUSE,P63015,Paired box protein Pax-6,Pax6
+TRI63,MOUSE,Q38HM4,E3 ubiquitin-protein ligase TRIM63,Trim63,SINGLE,RING,MLRS,MOUSE,P97457,Myosin regulatory light chain 2,
+WWP1,MOUSE,Q8BZZ3,NEDD4-like E3 ubiquitin-protein ligase WWP1,Wwp1,SINGLE,HECT,ERBB4,MOUSE,Q61527,Receptor tyrosine-protein kinase erbB-4,Erbb4
+WWP1,MOUSE,Q8BZZ3,NEDD4-like E3 ubiquitin-protein ligase WWP1,Wwp1,SINGLE,HECT,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+WWP1,MOUSE,Q8BZZ3,NEDD4-like E3 ubiquitin-protein ligase WWP1,Wwp1,SINGLE,HECT,WWP1,MOUSE,Q8BZZ3,NEDD4-like E3 ubiquitin-protein ligase WWP1,Wwp1
+WWP2,MOUSE,Q9DBH0,NEDD4-like E3 ubiquitin-protein ligase WWP2,Wwp2,SINGLE,HECT,EGR2,MOUSE,P08152,Early growth response protein 2,Egr2
+WWP2,MOUSE,Q9DBH0,NEDD4-like E3 ubiquitin-protein ligase WWP2,Wwp2,SINGLE,HECT,WWP2,MOUSE,Q9DBH0,NEDD4-like E3 ubiquitin-protein ligase WWP2,Wwp2
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,ATF4,MOUSE,Q06507,Cyclic AMP-dependent transcription factor ATF-4,Atf4
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,IKBA,MOUSE,Q9Z1E3,NF-kappa-B inhibitor alpha,Nfkbia
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,IKBB,MOUSE,Q60778,NF-kappa-B inhibitor beta,Nfkbib
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,NFKB1,MOUSE,P25799,Nuclear factor NF-kappa-B p105 subunit,Nfkb1
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,PLK4,MOUSE,Q64702,Serine/threonine-protein kinase PLK4,Plk4
+SCF(FBXL5),MOUSE,Q8C2S5,SCF(FBXL5),-,COMPLEX,RING,DCTN1,MOUSE,O08788,Dynactin subunit 1,Dctn1
+SCF(FBXO2),MOUSE,Q80UW2,SCF(FBXO2),-,COMPLEX,RING,NMDZ1,MOUSE,P35438,Glutamate [NMDA] receptor subunit zeta-1,Grin1
+SCF(FBXW7),MOUSE,Q8VBV4,SCF(FBXW7),-,COMPLEX,RING,CCNE1,MOUSE,Q61457,G1/S-specific cyclin-E1,Ccne1
+SCF(NIPA),MOUSE,Q80YV2,SCF(NIPA),-,COMPLEX,RING,CCNB1,MOUSE,P24860,G2/mitotic-specific cyclin-B1,Ccnb1
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,CCNE1,MOUSE,Q61457,G1/S-specific cyclin-E1,Ccne1
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,IKBB,MOUSE,Q60778,NF-kappa-B inhibitor beta,Nfkbib
+SIA1A,MOUSE,P61092,E3 ubiquitin-protein ligase SIAH1A,Siah1a,SINGLE,RING,CTNB1,MOUSE,Q02248,Catenin beta-1,Ctnnb1
+M3K1,MOUSE,P53349,Mitogen-activated protein kinase kinase kinase 1,Map3k1,SINGLE,RING,FOSL2,MOUSE,P47930,Fos-related antigen 2,Fosl2
+MARH9,MOUSE,Q3TZ87,E3 ubiquitin-protein ligase MARCH9,9-Mar,SINGLE,RING,ICAM1,MOUSE,P13597,Intercellular adhesion molecule 1,Icam1
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,ARRB2,MOUSE,Q91YI4,Beta-arrestin-2,Arrb2
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,KAT2B,MOUSE,Q9JHD1,Histone acetyltransferase KAT2B,Kat2b
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,KAT5,MOUSE,Q8CHK4,Histone acetyltransferase KAT5,Kat5
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,MDM4,MOUSE,O35618,Protein Mdm4,Mdm4
+MDM2,MOUSE,P23804,E3 ubiquitin-protein ligase Mdm2,Mdm2,SINGLE,RING,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+MIB1,MOUSE,Q80SY4,E3 ubiquitin-protein ligase MIB1,Mib1,SINGLE,RING,MIB1,MOUSE,Q80SY4,E3 ubiquitin-protein ligase MIB1,Mib1
+NEU1B,MOUSE,Q0MW30,E3 ubiquitin-protein ligase NEURL1B,Neurl1b,SINGLE,RING,DLL1,MOUSE,Q61483,Delta-like protein 1,Dll1
+RAD18,MOUSE,Q9QXK2,E3 ubiquitin-protein ligase RAD18,Rad18,SINGLE,RING,PCNA,MOUSE,P17918,Proliferating cell nuclear antigen,Pcna
+RFFL,MOUSE,Q6ZQM0,E3 ubiquitin-protein ligase rififylin,Rffl,SINGLE,RING,RFFL,MOUSE,Q6ZQM0,E3 ubiquitin-protein ligase rififylin,Rffl
+RNF41,MOUSE,Q8BH75,E3 ubiquitin-protein ligase NRDP1,Rnf41,SINGLE,RING,ERBB3,MOUSE,Q61526,Receptor tyrosine-protein kinase erbB-3,Erbb3
+RNF43,MOUSE,Q5NCP0,RING finger protein 43,Rnf43,SINGLE,RING,RNF43,MOUSE,Q5NCP0,RING finger protein 43,Rnf43
+ZN363,MOUSE,Q9CR50,RING finger and CHY zinc finger domain-containing protein 1,Rchy1,SINGLE,RING,CDN1B,MOUSE,P46414,Cyclin-dependent kinase inhibitor 1B,Cdkn1b
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,PGFRB,MOUSE,P05622,Beta-type platelet-derived growth factor receptor,Pdgfrb
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,STA5A,MOUSE,P42230,Signal transducer and activator of transcription 5A,Stat5a
+CHFR,MOUSE,Q810L3,E3 ubiquitin-protein ligase CHFR,Chfr,SINGLE,RING,PLK1,MOUSE,Q07832,Serine/threonine-protein kinase PLK1,Plk1
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,MKKS,MOUSE,Q9JI70,McKusick-Kaufman/Bardet-Biedl syndromes putative chaperonin,Mkks
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,TAU,MOUSE,P10637,Microtubule-associated protein tau,Mapt
+E4F1,MOUSE,Q8CCE9,Transcription factor E4F1,E4f1,SINGLE,ETC,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+ECS(ASB9),MOUSE,Q91ZT8,ECS(ASB9),-,COMPLEX,RING,KCRB,MOUSE,Q04447,Creatine kinase B-type,Ckb
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,SNX9,MOUSE,Q91VH2,Sorting nexin-9,Snx9
+KPC,MOUSE,Q5XPI3,KPC,-,COMPLEX,RING,CDN1B,MOUSE,P46414,Cyclin-dependent kinase inhibitor 1B,Cdkn1b
+LNX1,MOUSE,O70263,E3 ubiquitin-protein ligase LNX,Lnx1,SINGLE,RING,NUMB,MOUSE,Q9QZS3,Protein numb homolog,Numb
+M3K1,MOUSE,P53349,Mitogen-activated protein kinase kinase kinase 1,Map3k1,SINGLE,RING,MK03,MOUSE,Q63844,Mitogen-activated protein kinase 3,Mapk3
+MARH1,MOUSE,Q6NZQ8,E3 ubiquitin-protein ligase MARCH1,1-Mar,SINGLE,RING,HB2A,MOUSE,P14483,H-2 class II histocompatibility antigen,
+MARH5,MOUSE,Q3KNM2,E3 ubiquitin-protein ligase MARCH5,5-Mar,SINGLE,RING,FIS1,MOUSE,Q9CQ92,Mitochondrial fission 1 protein,Fis1
+MARH8,MOUSE,Q9DBD2,E3 ubiquitin-protein ligase MARCH8,8-Mar,SINGLE,RING,CD86,MOUSE,P42082,T-lymphocyte activation antigen CD86,Cd86
+RNF4,MOUSE,Q9QZS2,E3 ubiquitin ligase RNF4,Rnf4,SINGLE,RING,ETV4,MOUSE,P28322,ETS translocation variant 4,Etv4
+RNF4,MOUSE,Q9QZS2,E3 ubiquitin ligase RNF4,Rnf4,SINGLE,RING,RNF4,MOUSE,Q9QZS2,E3 ubiquitin ligase RNF4,Rnf4
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,DLG1,MOUSE,Q811D0,Disks large homolog 1,Dlg1
+SCF(BTRC),MOUSE,Q3ULA2,SCF(BTRC),-,COMPLEX,RING,NFKB2,MOUSE,Q9WTK5,Nuclear factor NF-kappa-B p100 subunit,Nfkb2
+SCF(FBXL5),MOUSE,Q8C2S5,SCF(FBXL5),-,COMPLEX,RING,IREB2,MOUSE,Q811J3,Iron-responsive element-binding protein 2,Ireb2
+SCF(FBXW11),MOUSE,Q5SRY7,SCF(FBXW11),-,COMPLEX,RING,CTNB1,MOUSE,Q02248,Catenin beta-1,Ctnnb1
+SCF(FBXW7),MOUSE,Q8VBV4,SCF(FBXW7),-,COMPLEX,RING,JUN,MOUSE,P05627,Transcription factor AP-1,Jun
+SIAH2,MOUSE,Q06986,E3 ubiquitin-protein ligase SIAH2,Siah2,SINGLE,RING,EGLN3,MOUSE,Q91UZ4,Egl nine homolog 3,Egln3
+SIAH2,MOUSE,Q06986,E3 ubiquitin-protein ligase SIAH2,Siah2,SINGLE,RING,PLCE1,MOUSE,Q8K4S1,1-phosphatidylinositol-4,
+SMUF2,MOUSE,A2A5Z6,E3 ubiquitin-protein ligase SMURF2,Smurf2,SINGLE,HECT,RUNX2,MOUSE,Q08775,Runt-related transcription factor 2,Runx2
+SYVN1,MOUSE,Q9DBY1,E3 ubiquitin-protein ligase synoviolin,Syvn1,SINGLE,RING,SGK1,MOUSE,Q9WVC6,Serine/threonine-protein kinase Sgk1,Sgk1
+TRAF6,MOUSE,P70196,TNF receptor-associated factor 6,Traf6,SINGLE,RING,NR2C2,MOUSE,P49117,Nuclear receptor subfamily 2 group C member 2,Nr2c2
+TRI32,MOUSE,Q8CH72,E3 ubiquitin-protein ligase TRIM32,Trim32,SINGLE,RING,ABI2,MOUSE,P62484,Abl interactor 2,Abi2
+TRI37,MOUSE,Q6PCX9,E3 ubiquitin-protein ligase TRIM37,Trim37,SINGLE,RING,TRI37,MOUSE,Q6PCX9,E3 ubiquitin-protein ligase TRIM37,Trim37
+TTC3,MOUSE,O88196,E3 ubiquitin-protein ligase TTC3,Ttc3,SINGLE,RING,AKT1,MOUSE,P31750,RAC-alpha serine/threonine-protein kinase,Akt1
+TTC3,MOUSE,O88196,E3 ubiquitin-protein ligase TTC3,Ttc3,SINGLE,RING,AKT3,MOUSE,Q9WUA6,RAC-gamma serine/threonine-protein kinase,Akt3
+WWP2,MOUSE,Q9DBH0,NEDD4-like E3 ubiquitin-protein ligase WWP2,Wwp2,SINGLE,HECT,NRAM2,MOUSE,P49282,Natural resistance-associated macrophage protein 2,Slc11a2
+XIAP,MOUSE,Q60989,Baculoviral IAP repeat-containing protein 4,Xiap,SINGLE,RING,PTEN,MOUSE,O08586,Phosphatidylinositol-3,
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,CCNB1,MOUSE,P24860,G2/mitotic-specific cyclin-B1,Ccnb1
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,Q60979,MOUSE,Q60979,SnoN protein,Skil
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,RUNX1,MOUSE,Q03347,Runt-related transcription factor 1,Runx1
+BCR(GAN),MOUSE,Q8CA72,BCR(GAN),-,COMPLEX,RING,MAP1S,MOUSE,Q8C052,Microtubule-associated protein 1S,Map1s
+BCR(SPOP),MOUSE,Q6ZWS8,BCR(SPOP),-,COMPLEX,RING,H2AY,MOUSE,Q9QZQ8,Core histone macro-H2A.1,H2afy
+SMUF2,MOUSE,A2A5Z6,E3 ubiquitin-protein ligase SMURF2,Smurf2,SINGLE,HECT,CTNB1,MOUSE,Q02248,Catenin beta-1,Ctnnb1
+SYVN1,MOUSE,Q9DBY1,E3 ubiquitin-protein ligase synoviolin,Syvn1,SINGLE,RING,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+TRAF6,MOUSE,P70196,TNF receptor-associated factor 6,Traf6,SINGLE,RING,TRAF6,MOUSE,P70196,TNF receptor-associated factor 6,Traf6
+TRI17,MOUSE,Q7TPM3,E3 ubiquitin-protein ligase TRIM17,Trim17,SINGLE,RING,TRI17,MOUSE,Q7TPM3,E3 ubiquitin-protein ligase TRIM17,Trim17
+TRI32,MOUSE,Q8CH72,E3 ubiquitin-protein ligase TRIM32,Trim32,SINGLE,RING,DTBP1,MOUSE,Q91WZ8,Dysbindin,Dtnbp1
+TRI32,MOUSE,Q8CH72,E3 ubiquitin-protein ligase TRIM32,Trim32,SINGLE,RING,MYC,MOUSE,P01108,Myc proto-oncogene protein,Myc
+TRI32,MOUSE,Q8CH72,E3 ubiquitin-protein ligase TRIM32,Trim32,SINGLE,RING,TRI32,MOUSE,Q8CH72,E3 ubiquitin-protein ligase TRIM32,Trim32
+TRI63,MOUSE,Q38HM4,E3 ubiquitin-protein ligase TRIM63,Trim63,SINGLE,RING,MLRV,MOUSE,P51667,Myosin regulatory light chain 2,
+WWP1,MOUSE,Q8BZZ3,NEDD4-like E3 ubiquitin-protein ligase WWP1,Wwp1,SINGLE,HECT,SMAD6,MOUSE,O35182,Mothers against decapentaplegic homolog 6,Smad6
+XIAP,MOUSE,Q60989,Baculoviral IAP repeat-containing protein 4,Xiap,SINGLE,RING,M3K2,MOUSE,Q61083,Mitogen-activated protein kinase kinase kinase 2,Map3k2
+ZSWM2,MOUSE,Q9D9X6,E3 ubiquitin-protein ligase Zswim2,Zswim2,SINGLE,RING,ZSWM2,MOUSE,Q9D9X6,E3 ubiquitin-protein ligase Zswim2,Zswim2
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,DNMT1,MOUSE,P13864,DNA (cytosine-5)-methyltransferase 1,Dnmt1
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,PTTG1,MOUSE,Q9CQJ7,Securin,Pttg1
+APC(CDH1),MOUSE,Q9R1K5,APC(CDH1),-,COMPLEX,RING,SKIL,MOUSE,Q60665,Ski-like protein,Skil
+MIB1,MOUSE,Q80SY4,E3 ubiquitin-protein ligase MIB1,Mib1,SINGLE,RING,DLL1,MOUSE,Q61483,Delta-like protein 1,Dll1
+MYLIP,MOUSE,Q8BM54,E3 ubiquitin-protein ligase MYLIP,Mylip,SINGLE,RING,LDLR,MOUSE,P35951,Low-density lipoprotein receptor,Ldlr
+NED4L,MOUSE,Q8CFI0,E3 ubiquitin-protein ligase NEDD4-like,Nedd4l,SINGLE,HECT,CLCN5,MOUSE,Q9WVD4,H(+)/Cl(-) exchange transporter 5,Clcn5
+NEDD4,MOUSE,P46935,E3 ubiquitin-protein ligase NEDD4,Nedd4,SINGLE,HECT,NFIP1,MOUSE,Q8R0W6,NEDD4 family-interacting protein 1,Ndfip1
+NEU1A,MOUSE,Q923S6,Neuralized-like protein 1A,Neurl,SINGLE,RING,JAG1,MOUSE,Q9QXX0,Protein jagged-1,Jag1
+PJA1,MOUSE,O55176,E3 ubiquitin-protein ligase Praja-1,Pja1,SINGLE,RING,MAGD1,MOUSE,Q9QYH6,Melanoma-associated antigen D1,Maged1
+RFWD3,MOUSE,Q8CIK8,E3 ubiquitin-protein ligase RFWD3,Rfwd3,SINGLE,RING,P53,MOUSE,P02340,Cellular tumor antigen p53,Tp53
+RNF4,MOUSE,Q9QZS2,E3 ubiquitin ligase RNF4,Rnf4,SINGLE,RING,PARP1,MOUSE,P11103,Poly [ADP-ribose] polymerase 1,Parp1
+RO52,MOUSE,Q62191,E3 ubiquitin-protein ligase TRIM21,Trim21,SINGLE,RING,IRF8,MOUSE,P23611,Interferon regulatory factor 8,Irf8
+BCR(BACURD2),MOUSE,O70479,BCR(BACURD2),-,COMPLEX,RING,RHOA,MOUSE,Q9QUI0,Transforming protein RhoA,Rhoa
+BCR(KEAP1),MOUSE,Q9Z2X8,BCR(KEAP1),-,COMPLEX,RING,NF2L2,MOUSE,Q60795,Nuclear factor erythroid 2-related factor 2,Nfe2l2
+BCR(KEAP1),MOUSE,Q9Z2X8,BCR(KEAP1),-,COMPLEX,RING,PGAM5,MOUSE,Q8BX10,Serine/threonine-protein phosphatase PGAM5,
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,CRKL,MOUSE,P47941,Crk-like protein,Crkl
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,FGFR2,MOUSE,P21803,Fibroblast growth factor receptor 2,Fgfr2
+CBL,MOUSE,P22682,E3 ubiquitin-protein ligase CBL,Cbl,SINGLE,RING,FGFR3,MOUSE,Q61851,Fibroblast growth factor receptor 3,Fgfr3
+CHFR,MOUSE,Q810L3,E3 ubiquitin-protein ligase CHFR,Chfr,SINGLE,RING,CHFR,MOUSE,Q810L3,E3 ubiquitin-protein ligase CHFR,Chfr
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,AKT1,MOUSE,P31750,RAC-alpha serine/threonine-protein kinase,Akt1
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,ESR1,MOUSE,P19785,Estrogen receptor,Esr1
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,GATA4,MOUSE,Q08369,Transcription factor GATA-4,Gata4
+CHIP,MOUSE,Q9WUD1,STIP1 homology and U box-containing protein 1,Stub1,SINGLE,UBOX,RAF1,MOUSE,Q99N57,RAF proto-oncogene serine/threonine-protein kinase,Raf1
+DCX(DDB2),MOUSE,Q99J79,DCX(DDB2),-,COMPLEX,RING,XPC,MOUSE,P51612,DNA repair protein complementing XP-C cells homolog,Xpc
+HAKAI,MOUSE,Q9JIY2,E3 ubiquitin-protein ligase Hakai,Cbll1,SINGLE,RING,CADH1,MOUSE,P09803,Cadherin-1,Cdh1
+HECD3,MOUSE,Q3U487,E3 ubiquitin-protein ligase HECTD3,Hectd3,SINGLE,HECT,TARA,MOUSE,Q99KW3,TRIO and F-actin-binding protein,Triobp
+HERC2,MOUSE,Q4U2R1,E3 ubiquitin-protein ligase HERC2,Herc2,SINGLE,HECT,XPA,MOUSE,Q64267,DNA repair protein complementing XP-A cells homolog,Xpa
+HUWE1,MOUSE,Q7TMY8,E3 ubiquitin-protein ligase HUWE1,Huwe1,SINGLE,HECT,MYCN,MOUSE,P03966,N-myc proto-oncogene protein,Mycn
+IRAK1,MOUSE,Q62406,Interleukin-1 receptor-associated kinase 1,Irak1,SINGLE,ETC,PELI1,MOUSE,Q8C669,Protein pellino homolog 1,Peli1
+ITCH,MOUSE,Q8C863,E3 ubiquitin-protein ligase Itchy,Itch,SINGLE,HECT,SMAD2,MOUSE,Q62432,Mothers against decapentaplegic homolog 2,Smad2
+SCF(FBXO6),MOUSE,Q9QZN4,SCF(FBXO6),-,COMPLEX,RING,CHK1,MOUSE,O35280,Serine/threonine-protein kinase Chk1,Chek1
+SCF(FBXW11),MOUSE,Q5SRY7,SCF(FBXW11),-,COMPLEX,RING,INAR1,MOUSE,P33896,Interferon alpha/beta receptor 1,Ifnar1
+SCF(SKP2),MOUSE,Q9Z0Z3,SCF(SKP2),-,COMPLEX,RING,CDN1C,MOUSE,P49919,Cyclin-dependent kinase inhibitor 1C,Cdkn1c
+SIA1A,MOUSE,P61092,E3 ubiquitin-protein ligase SIAH1A,Siah1a,SINGLE,RING,EGLN3,MOUSE,Q91UZ4,Egl nine homolog 3,Egln3
+SMUF2,MOUSE,A2A5Z6,E3 ubiquitin-protein ligase SMURF2,Smurf2,SINGLE,HECT,STABP,MOUSE,Q9CQ26,STAM-binding protein,Stambp
+TRAF6,MOUSE,P70196,TNF receptor-associated factor 6,Traf6,SINGLE,RING,AKT1,MOUSE,P31750,RAC-alpha serine/threonine-protein kinase,Akt1
+TRI18,MOUSE,O70583,Midline-1,Mid1,SINGLE,RING,PRM2,MOUSE,P07978,Protamine-2,Prm2
+TRI56,MOUSE,Q80VI1,E3 ubiquitin-protein ligase TRIM56,Trim56,SINGLE,RING,TM173,MOUSE,Q3TBT3,Transmembrane protein 173,Tmem173
+TRI63,MOUSE,Q38HM4,E3 ubiquitin-protein ligase TRIM63,Trim63,SINGLE,RING,MYPC2,MOUSE,Q5XKE0,Myosin-binding protein C,
+UBE3A,MOUSE,O08759,Ubiquitin-protein ligase E3A,Ube3a,SINGLE,HECT,SYUA,MOUSE,O55042,Alpha-synuclein,Snca
