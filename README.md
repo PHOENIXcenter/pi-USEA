@@ -1,4 +1,4 @@
-# pi-USEA: Ubiquitin Ligase/Deubiquitylase Substrate Enrichment Analysis Tool
+# pi-USEA: Ubiquitin Ligase/Deubiquitylase Substrate Enrichment Analysis
 
 This tool is specifically designed to predict the activity of ubiquitin ligases and deubiquitylases. Users can upload the ratio change data of the ubiquitination group of interest to obtain corresponding enzyme activity prediction results.
 
