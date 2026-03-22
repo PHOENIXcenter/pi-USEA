@@ -2,14 +2,7 @@
 
 ## 1. Tool Overview
 
-1. This tool is specifically designed to predict the activity of ubiquitin ligases and deubiquitinases. Users only need to upload the ratio change data of their ubiquitinome of interest to obtain corresponding enzyme activity prediction results.
-
-2. Tool Components
-
-- Code Part 1: Organizes and merges different interaction datasets; Code Part 2: Calculates enzyme activity.
-- Dataset Part1_interaction: Contains raw interaction datasets for *Homo sapiens* and *Mus musculus*.
-- Dataset Part2_calculation: Contains curated interaction datasets for *Homo sapiens* and *Mus musculus*.
-- Example Data: `test_data` and results based on `test_data` (including enzyme activity predictions, redundancy overlap, and threshold evaluation results).
+This tool is specifically designed to predict the activity of ubiquitin ligases and deubiquitinases. Users only need to upload the ratio change data of their ubiquitinome of interest to obtain corresponding enzyme activity prediction results.
 
 ## 2. Core Features
 
@@ -44,11 +37,11 @@
 
 ### 3.3 Analysis Steps
 
-The tool's datasets have been pre-processed for human and mouse species. If your data is from human or mouse, you can directly use the corresponding species dataset provided by the tool (`pi-USEA/dataset/part2_calculation/Homo_sapiens` or `pi-USEA/dataset/part2_calculation/Mus_musculus`). Open `pi-USEA.R`, install and load the required R packages, and start the analysis directly from Part 2. The main steps are:
+The tool's datasets have been pre-processed for human and mouse species. If your data is from human or mouse, you can directly use the corresponding species dataset provided by the tool. Open `pi-USEA.R`, install and load the required R packages, and start the analysis directly from Part 2. The main steps are:
 
 1.  **Read Interaction Datasets**: Load the interaction datasets (including `E3pre`: combined predicted and real E3 interactions; `E3real`: real E3 interactions; `DUBpre`: combined predicted and real DUB interactions; `DUBreal`: real DUB interactions) and your prepared ubiquitinome data.
 2.  **Merge Datasets**: Merge the interaction datasets with your ubiquitinome data.
-3.  **Analyze Real Datasets (`E3real`, `DUBreal`)**: Directly calculate enzyme activity and output results (`E3/DUB_real_activity.csv`).
+3.  **Analyze Real Datasets (`E3real`, `DUBreal`)**: Directly calculate enzyme activity and output results `E3/DUB_real_activity.csv`.
 4.  **Analyze Predicted Datasets (`E3pre`, `DUBpre`)**: Perform confidence assessment, select a confidence threshold, and filter high-confidence interaction entries (manual threshold setting required) for subsequent analysis, for example:
     `E3pre <- E3pre %>% filter(interScore > 0.75)`
 5.  **Weighted Calculation for Predicted Datasets**: Calculate enzyme activity using a weighted average and output results.
